@@ -1,1 +1,1 @@
-<? php include_once("index.html"); ?>
+<? php show_source("index.html"); ?>
